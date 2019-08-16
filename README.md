@@ -1,4 +1,5 @@
 # codility-coding-lessons
+Detailed coding problem statements can be found via the link: https://app.codility.com/programmers/lessons/
 
 AVAILABLE LESSONS: 
 
