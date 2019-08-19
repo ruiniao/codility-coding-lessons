@@ -23,9 +23,9 @@ Lesson 9: Maximum slice problem
 
 Lesson 10: Prime and composite numbers 
 
----------To do-----------------------
-
 Lesson 11: Sieve of Eratosthenes 
+
+---------To do-----------------------
 
 Lesson 12: Euclidean algorithm 
 
