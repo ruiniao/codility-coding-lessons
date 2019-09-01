@@ -25,9 +25,9 @@ Lesson 10: Prime and composite numbers
 
 Lesson 11: Sieve of Eratosthenes 
 
----------To do-----------------------
-
 Lesson 12: Euclidean algorithm 
+
+---------To do-----------------------
 
 Lesson 13: Fibonacci numbers 
 
