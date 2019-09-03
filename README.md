@@ -27,9 +27,9 @@ Lesson 11: Sieve of Eratosthenes
 
 Lesson 12: Euclidean algorithm 
 
----------To do-----------------------
-
 Lesson 13: Fibonacci numbers 
+
+---------To do-----------------------
 
 Lesson 14: Binary search algorithm 
 
