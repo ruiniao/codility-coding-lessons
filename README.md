@@ -29,9 +29,9 @@ Lesson 12: Euclidean algorithm
 
 Lesson 13: Fibonacci numbers 
 
----------To do-----------------------
-
 Lesson 14: Binary search algorithm 
+
+---------To do-----------------------
 
 Lesson 15: Caterpillar method 
 
