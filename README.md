@@ -31,13 +31,13 @@ Lesson 13: Fibonacci numbers
 
 Lesson 14: Binary search algorithm 
 
----------To do-----------------------
-
 Lesson 15: Caterpillar method 
 
 Lesson 16: Greedy algorithms 
 
 Lesson 17: Dynamic programming 
+
+---------To do-----------------------
 
 Lesson 90: Tasks from Indeed Prime 2015 challenge 
 
